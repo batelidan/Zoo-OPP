@@ -1,0 +1,4 @@
+﻿  allClasses.cpp
+C:\Users\97252\Desktop\סיכומים - מדעי המחשב\סיכומים סמסטר ב\תכנות מונחה עצמים\מטלות\matala_5\matala_5\allClasses.cpp(726,6): warning C4101: 'i': unreferenced local variable
+C:\Users\97252\Desktop\סיכומים - מדעי המחשב\סיכומים סמסטר ב\תכנות מונחה עצמים\מטלות\matala_5\matala_5\allClasses.cpp(1000,6): warning C4101: 'len': unreferenced local variable
+  matala_5.vcxproj -> C:\Users\97252\Desktop\סיכומים - מדעי המחשב\סיכומים סמסטר ב\תכנות מונחה עצמים\מטלות\matala_5\Debug\matala_5.exe

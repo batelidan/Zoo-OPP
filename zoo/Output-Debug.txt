@@ -1,0 +1,14 @@
+﻿'matala_5.exe' (Win32): Loaded 'C:\Users\97252\Desktop\סיכומים - מדעי המחשב\סיכומים סמסטר ב\תכנות מונחה עצמים\מטלות\matala_5\Debug\matala_5.exe'. Symbols loaded.
+'matala_5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'matala_5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Symbols loaded.
+'matala_5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'matala_5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. Symbols loaded.
+'matala_5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Symbols loaded.
+'matala_5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x71d0 has exited with code 0 (0x0).
+'matala_5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. Symbols loaded.
+'matala_5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. Symbols loaded.
+'matala_5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x72b8 has exited with code 0 (0x0).
+The thread 0x60ec has exited with code 0 (0x0).
+The program '[728] matala_5.exe' has exited with code 0 (0x0).
